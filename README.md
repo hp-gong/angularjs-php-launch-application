@@ -2,7 +2,9 @@
 
 ** Apparently there is some issue uploading the files. **
 
-** I put the files in the launch.zip and you can extract the files and follow the instructions**
+** I put all the files in the launch.zip and you can extract the files **
+
+** The img preview folder contain images of the front end & admin section. **
 
 == Description ==
 
@@ -17,8 +19,6 @@ Then you can export the emails from the admin section and upload to your Email M
 This is the design template I used is from freehtml5:
 
 https://freehtml5.co/demos/launch/
-
-The img folder contain preview images of the front end & admin section.
 
 Once you log in to the admin section, there are 7 pages:
 
