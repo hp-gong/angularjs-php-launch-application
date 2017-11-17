@@ -32,7 +32,7 @@ Once you log in to the admin section, there are 7 pages:
 
 == Instructions ==
 
-Before you upload the angularjs.sql file.
+Before you upload the angularjs.sql file to phpmyadmin
 
 Open the file and change the username and password.
 
