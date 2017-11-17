@@ -44,13 +44,13 @@ For Marketing & SEO suggestion:
 
 You can buy another domain for landing page for example: discount.yourcompanyname.com / sale.yourcompanyname.com / events.yourcompanyname.com
 
-Enter the info on Facebook and Twitter integration on the index.php
+Enter the info on Facebook and Twitter integration or other social media integration on the index.php
 
 Post the link on Facebook, Twitter and etc...
 
 Add Google Analytics on the index.php to keep track all of clicks.
 
-The Email Marketing keep track of the clicks when you send out the promotional emails.
+The Email Marketing platform keep track of the clicks when you send out the promotional emails.
 
 == Languages and Software==
 
