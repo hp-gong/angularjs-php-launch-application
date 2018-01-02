@@ -1,9 +1,5 @@
 # angularjs-php-launch-application
 
-** Apparently there is some issue uploading the files. **
-
-** I put all the files in the launch.zip and you can extract the files **
-
 ** The img preview folder contain images of the front end & admin section. **
 
 == Description ==
